@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Output and build files
+out/
+bin/
+run/
+
+# Logs
+*.log
+*.log.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fabric
+.fabricmc/
+.minecraft/
