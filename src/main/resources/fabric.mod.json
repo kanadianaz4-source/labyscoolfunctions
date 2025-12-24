@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "labyscoolfunctions",
+  "version": "${version}",
+  "name": "Laby's Cool Functions",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.kanadianaz4source.labyscoolfunctions.LabysCoolfunctionsMod"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.4"
+  }
+}
