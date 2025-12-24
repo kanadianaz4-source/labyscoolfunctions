@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.kanadianaz4.labyscoolfunctions.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "labyscoolfunctions.refmap.json",
+  "outmap": "labyscoolfunctions.map",
+  "defaultRequiredApi": "0.12",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [],
+  "client": [],
+  "server": []
+}
